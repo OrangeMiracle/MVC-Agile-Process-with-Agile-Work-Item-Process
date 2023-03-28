@@ -4,5 +4,22 @@
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
+    <table>
+        <tr>
+            <td>Current Time：</td>
+            <td id="current-time"></td>
+        </tr>
+    </table>
+
+
+    <script>
+        function updateTime() {
+            const now = new Date();
+            const formattedTime = now.toLocaleString('ca-EN', { hour12: false });
+            document.getElementById('current-time').textContent = formattedTime;
+        }
+        setInterval(updateTime, 1000);
+    </script>
+
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>

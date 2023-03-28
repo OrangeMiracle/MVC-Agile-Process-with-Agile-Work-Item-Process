@@ -1,0 +1,31 @@
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\bin\Debug\net6.0\appsettings.Development.json
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\bin\Debug\net6.0\appsettings.json
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\bin\Debug\net6.0\MVC Agile Process with Agile Work Item Process.staticwebassets.runtime.json
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\bin\Debug\net6.0\MVC Agile Process with Agile Work Item Process.exe
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\bin\Debug\net6.0\MVC Agile Process with Agile Work Item Process.deps.json
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\bin\Debug\net6.0\MVC Agile Process with Agile Work Item Process.runtimeconfig.json
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\bin\Debug\net6.0\MVC Agile Process with Agile Work Item Process.dll
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\bin\Debug\net6.0\MVC Agile Process with Agile Work Item Process.pdb
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\MVC Agile Process with Agile Work Item Process.csproj.AssemblyReference.cache
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\MVC Agile Process with Agile Work Item Process.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\MVC Agile Process with Agile Work Item Process.AssemblyInfoInputs.cache
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\MVC Agile Process with Agile Work Item Process.AssemblyInfo.cs
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\MVC Agile Process with Agile Work Item Process.csproj.CoreCompileInputs.cache
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\MVC Agile Process with Agile Work Item Process.MvcApplicationPartsAssemblyInfo.cache
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\MVC Agile Process with Agile Work Item Process.RazorAssemblyInfo.cache
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\MVC Agile Process with Agile Work Item Process.RazorAssemblyInfo.cs
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\staticwebassets\msbuild.MVC Agile Process with Agile Work Item Process.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC Agile Process with Agile Work Item Process.props
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC Agile Process with Agile Work Item Process.props
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC Agile Process with Agile Work Item Process.props
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\staticwebassets.build.json
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\staticwebassets.development.json
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\scopedcss\bundle\MVC Agile Process with Agile Work Item Process.styles.css
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\scopedcss\projectbundle\MVC Agile Process with Agile Work Item Process.bundle.scp.css
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\MVC Agile Process with Agile Work Item Process.dll
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\refint\MVC Agile Process with Agile Work Item Process.dll
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\MVC Agile Process with Agile Work Item Process.pdb
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\MVC Agile Process with Agile Work Item Process.genruntimeconfig.cache
+D:\SCC Y3S2\COMP367\Lab3\MVC Agile Process with Agile Work Item Process\MVC Agile Process with Agile Work Item Process\obj\Debug\net6.0\ref\MVC Agile Process with Agile Work Item Process.dll
